@@ -25,4 +25,4 @@ func main() {
 }
 ```
 
-for a command-line program click [here](https://github.com/Schmenn/mock/cmd/mock)
+for a command-line program click [here](https://github.com/Schmenn/mock/tree/master/cmd/mock)
